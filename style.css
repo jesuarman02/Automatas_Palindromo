@@ -1,0 +1,35 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.input-group {
+    margin: 20px auto; 
+}
+
+button {
+    margin: 20px auto; 
+    width: 350px;
+}
+
+.input-small {
+    width: 100%; 
+    max-width: 250px; 
+}
+
+.sidebar {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.swal2-confirm {
+    display: block;
+    margin: 0 auto; 
+}
